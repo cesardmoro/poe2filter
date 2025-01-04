@@ -47,7 +47,6 @@ Show
 
 # Special Highlight - Breach Rings
 Show 
-  Rarity Rare
   BaseType == "Breach Ring"
   SetTextColor 0 240 190
   SetBorderColor 0 240 190
