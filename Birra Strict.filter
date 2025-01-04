@@ -89,11 +89,7 @@ Hide
   Class "Currency"
   BaseType "Orb of Augmentation" "Orb of Transmutation" "Regal Shard" "Chance Shard"
 
-Hide
-    Rarity Rare
-    DropLevel < 50
-    AreaLevel > 72
-    SetFontSize 35
+
 Hide
     AreaLevel > 72
     BaseType "Advanced "
